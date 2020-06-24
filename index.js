@@ -8,7 +8,7 @@ const config = {
 		ping: 30,
 		ping_timeout: 60
 	},
-	http: {
+	https: {
 		port: PORT,
 		allow_origin: '*'
 	}
